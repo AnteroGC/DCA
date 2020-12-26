@@ -6,5 +6,5 @@ using namespace std;
 
 
 int restador::resta(int primero, int segundo){
-	return 0;
+	return primero-primero;
 }
